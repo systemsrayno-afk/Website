@@ -679,8 +679,8 @@ www.blackcat880.shop
 p1o2i3u4y5t6r7e8w9q0.medianewsonline.com
 jaemoolding25863.elementfx.com
 zvwb1ep7i.onlinewebshop.net
-hxxp[://]p1o2i3u4y5t6r7e8w9q0.medianewsonline.com/login.php?OKey={$env:userdomain}&Areyou=cake&Who={$env:username}
-hxxp[://]p1o2i3u4y5t6r7e8w9q0.medianewsonline.com/logout.php?OKey=$env:userdomain&Who=$env:username
+http[://]p1o2i3u4y5t6r7e8w9q0.medianewsonline.com/login.php?OKey={$env:userdomain}&Areyou=cake&Who={$env:username}
+http[://]p1o2i3u4y5t6r7e8w9q0.medianewsonline.com/logout.php?OKey=$env:userdomain&Who=$env:username
 email.gov.in.drdosurvey.info
 trade4wealth.in
 auth.winopsupdate.site
@@ -2662,4 +2662,3 @@ athaang.in
 209.200.246.124
 84.247.181.35
 198.38.82.57
-
